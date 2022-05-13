@@ -52,7 +52,7 @@
      
 <div>
   <a href="https://github.com/SilverDevc">
-  <img height="190em" src="file:///C:/Users/caioz/OneDrive/%C3%81rea%20de%20Trabalho/graph.svg"/>
+  <img height="190em" src="https://github.com/tanashic0dex/tanashic0dex/blob/main/graph.svg"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
     
 <div>
