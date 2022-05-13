@@ -52,7 +52,7 @@
      
 <div>
   <a href="https://github.com/SilverDevc">
-  <img height="190em" src="https://github.com/tanashic0dex/tanashic0dex/blob/main/graph.svg"/>
+  <img height="190em" src="https://github.com/SilverDevc/SilverDevc/blob/main/graph.svg"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
     
 <div>
